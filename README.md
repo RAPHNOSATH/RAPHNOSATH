@@ -1,4 +1,4 @@
-### Hi there 👋
+### bonjour! je suis ravie de collaborer avec vous!! 👋
 
 <!--
 **RAPHNOSATH/RAPHNOSATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
