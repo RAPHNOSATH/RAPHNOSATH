@@ -1,6 +1,6 @@
 ### bonjour! je suis ravie de collaborer avec vous!! 👋
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
