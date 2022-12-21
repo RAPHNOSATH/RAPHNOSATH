@@ -1,6 +1,6 @@
 ### bonjour! je suis ravie de collaborer avec vous!! 👋
 
-![j'aime ces langages!](/Users/HP/Desktop/Formation-DI/SeekPng.com_php-mysql-logo-png_3726202 (1).png "HTML-CSS-JAVASCRIPT-PYTHON")
+![j'aime ces langages!](\Users\HP\Desktop\Formation-DI\SeekPng.com_php-mysql-logo-png_3726202 (1).png "HTML-CSS-JAVASCRIPT-PYTHON")
 **RAPHNOSATH/RAPHNOSATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
